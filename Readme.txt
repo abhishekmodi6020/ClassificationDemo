@@ -1,0 +1,5 @@
+- Training data is inside the training_data.txt file, New training data to be inserted should be similar to the data mentioned inside the file.
+- instructions to run the code: python knn_demo.py training_data.txt
+- For the part of experimenting with age in Q2c and Q3c.I have implemnted it inside the code. there is a option to classify with or without age.
+- Experimented with removing the age data , for test point (170,70,32). Observed a output change from M to W. All the intermediate steps shown as the ouptput of the code.
+- Necessary instructions are given in the UI ,to run the code.
